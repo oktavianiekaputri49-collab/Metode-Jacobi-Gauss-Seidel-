@@ -1,0 +1,39 @@
+📊 Implementasi Metode Jacobi dan Gauss-Seidel untuk SPL Linear
+Deskripsi
+Project ini membahas implementasi metode numerik Jacobi dan Gauss-Seidel untuk menyelesaikan Sistem Persamaan Linear (SPL) dengan 3 variabel secara iteratif.
+
+Kedua metode digunakan untuk memperoleh solusi pendekatan numerik dengan proses iterasi hingga mencapai nilai konvergen berdasarkan error yang semakin kecil
+Hasil Iterasi
+Metode Jacobi
+Konvergen pada sekitar iterasi ke-14
+Hasil akhir:
+x₁ ≈ 0.0351
+x₂ ≈ -0.2368
+x₃ ≈ 0.6580
+
+Metode Gauss-Seidel
+Konvergen pada sekitar iterasi ke-10
+Hasil akhir:
+x₁ ≈ 0.0351
+x₂ ≈ -0.2368
+x₃ ≈ 0.6579
+
+Tujuan Project
+Memahami metode Jacobi dan Gauss-Seidel
+Menyelesaikan SPL 3 variabel secara iteratif
+Menganalisis proses konvergensi
+Menghitung error relatif pada setiap iterasi
+Membandingkan efektivitas kedua metode
+Implementasi metode numerik menggunakan Excel
+
+Insight
+Metode Gauss-Seidel terbukti lebih cepat konvergen dibanding Jacobi karena memanfaatkan nilai terbaru pada setiap iterasi, sehingga mempercepat proses menuju solusi stabil.
+
+Tools
+Microsoft Excel
+Metode Numerik
+
+Penutup
+Project ini merupakan latihan implementasi metode numerik dalam penyelesaian sistem persamaan linear serta analisis perbandingan metode Jacobi dan Gauss-Seidel.
+
+#MetodeNumerik #Jacobi #GaussSeidel #SPL #Excel #NumericalMethod #DataAnalysis #Mahasiswa #Portofolio
